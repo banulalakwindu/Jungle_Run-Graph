@@ -2,7 +2,7 @@
 
 Finds the shortest path - breadth first search
 
-Jungle Run
+<b>Jungle Run</b>
 
 You are lost in a dense jungle and it is getting dark. There is at least one path that leads you to the city 
 on the other side but you cannot see anything until you are right in front of it as the trees and bushes 
